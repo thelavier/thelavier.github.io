@@ -7,3 +7,4 @@ date: 2021-09-23
 venue: 'Electronic Journal of Differential Equations (EJDE)'
 paperurl: 'https://arxiv.org/abs/2008.08263'
 citation: 'Usman Hafeez, Theo Lavier, Lucas Williams, Lyudmila Korobenko. (2021) &quot;Orlicz-Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators.&quot; <i>EJDE</i>. No. 82, pp. 1-19'
+---
