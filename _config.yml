@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Théo Lavier / Site Title"
+title                    : "Théo Lavier"
 title_separator          : "-"
 name                     : &name "Théo Lavier"
 description              : &description "PhD Student in MAC-MIGS at Heriot-Watt University and University of Edinburgh"
