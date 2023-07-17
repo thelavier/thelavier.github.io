@@ -2,7 +2,7 @@
 title: "Orlicz-Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators"
 collection: publications
 permalink: /publications/2021-Orlicz-Sobolev-inequalities
-excerpt: 
+excerpt: ''
 date: 2021-09-23
 venue: 'Electronic Journal of Differential Equations (EJDE)'
 paperurl: 'https://arxiv.org/abs/2008.08263'
