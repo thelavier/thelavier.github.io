@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Orlicz-Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-08-19-Orlicz-Sobolev-inequalities
+excerpt: 'We investigate a connection between solvability of the Dirichlet problem for an infinitely degenerate elliptic operator and the validity of an Orlicz-Sobolev inequality in the associated subunit metric space. For subelliptic operators it is known that the classical Sobolev inequality is sufficient and almost necessary for the Dirichlet problem to be solvable with a quantitative bound on the solution [11]. When the degeneracy is of infinite type, a weaker Orlicz-Sobolev inequality seems to be the right substitute [7]. In this paper we investigate this connection further and reduce the gap between necessary and sufficient conditions for solvability of the Dirichlet problem.'
+date: 2020-08-19
+venue: 'Electronic Journal of Differential Equations (EJDE)'
+paperurl: 'https://arxiv.org/abs/2008.08263'
+citation: 'Usman Hafeez, Theo Lavier, Lucas Williams, Lyudmila Korobenko. (2021) &quot;Orlicz-Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators.&quot; <i>EJDE</i>. No. 82, pp. 1-19'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We investigate a connection between solvability of the Dirichlet problem for an infinitely degenerate elliptic operator and the validity of an Orlicz-Sobolev inequality in the associated subunit metric space. For subelliptic operators it is known that the classical Sobolev inequality is sufficient and almost necessary for the Dirichlet problem to be solvable with a quantitative bound on the solution [11]. When the degeneracy is of infinite type, a weaker Orlicz-Sobolev inequality seems to be the right substitute [7]. In this paper we investigate this connection further and reduce the gap between necessary and sufficient conditions for solvability of the Dirichlet problem.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2008.08263.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Usman Hafeez, Theo Lavier, Lucas Williams, Lyudmila Korobenko. (2021) &quot;Orlicz-Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators.&quot; <i>EJDE</i>. No. 82, pp. 1-19
