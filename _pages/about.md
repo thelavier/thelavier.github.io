@@ -16,6 +16,21 @@ My research interests lie primarily in optimal transport and its interesections 
 
 I am also interested in developments in maths education and developing courses that implement the newest research about how to effectively teach maths. 
 
+Interesting Simulations
+======
+Here are two simulations showcasing an incompressible isolated semi-geostrophic cyclone:
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-top: 20px;">
+  <div style="text-align: center;">
+    <img src="assets/Cells.webp" alt="Simulation of Cells" width="400">
+    <p>Simulation 1: Cells</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/Seeds.webp" alt="Simulation of Seeds" width="400">
+    <p>Simulation 2: Seeds</p>
+  </div>
+</div>
+
 Personal Interests
 ======
 1. Hiking
