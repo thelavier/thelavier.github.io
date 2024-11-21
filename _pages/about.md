@@ -20,13 +20,13 @@ Interesting Simulations
 ======
 Here are two simulations showcasing an incompressible isolated semi-geostrophic cyclone:
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-top: 20px;">
-  <div style="text-align: center;">
-    <img src="assets/Cells.webp" alt="Simulation of Cells" width="400">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; margin-top: 20px; gap: 20px;">
+  <div style="text-align: center; flex: 1;">
+    <img src="assets/Cells.webp" alt="Simulation of Cells" style="max-width: 100%; height: auto;">
     <p>Simulation 1: Cells</p>
   </div>
-  <div style="text-align: center;">
-    <img src="assets/Seeds.webp" alt="Simulation of Seeds" width="400">
+  <div style="text-align: center; flex: 1;">
+    <img src="assets/Seeds.webp" alt="Simulation of Seeds" style="max-width: 100%; height: auto;">
     <p>Simulation 2: Seeds</p>
   </div>
 </div>
