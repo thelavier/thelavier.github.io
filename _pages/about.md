@@ -12,7 +12,7 @@ My name is Théo Lavier and I am a PhD student at Heriot-Watt University and Edi
 
 Research Interests
 ======
-My research interests lie primarily in optimal transport and its interesections with fluid mechanics. I have spent the majority of my PhD working on using semi-discrete optimal transport to prove the existence and regularity of solutions to the compressible semi-geostrophic equations. These equations are used to study the evolution of weather fronts. Going forward I want to work on optimal transport theory and applying it to study Euler's equations, the Navier-Stokes equations, and the magnetohydrodynamic equations.  
+My research interests lie primarily in optimal transport and its interesections with fluid mechanics. I have spent the majority of my PhD working on using semi-discrete optimal transport to prove the existence and regularity of solutions to the compressible semi-geostrophic equations as well as develop numerics. These equations are used to study the evolution of weather fronts. Going forward I want to work on optimal transport theory and applying it to study Euler's equations, the Navier-Stokes equations, and the magnetohydrodynamic equations.  
 
 I am also interested in developments in maths education and developing courses that implement the newest research about how to effectively teach maths. 
 
