@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Arts in Math-Physics, Reed College, 2021
 * Ph.D in Applied Maths, Heriot-Watt University / University of Edinburgh, 2025 (expected)
   * Supervisors : David Bourne and Beatrice Pelloni
+* Bachelor of Arts in Math-Physics, Reed College, 2021
 
 Work Experience
 ======
+* Fall 2024: Teaching Associate
 * Fall 2022 - Present: Teaching Assistant
   * Heriot-Watt University
   * Duties included: Face to face tutorials
