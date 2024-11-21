@@ -3,7 +3,7 @@ title: "Optimal transport and the compressible semi-geostrophic equations"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-MIAD
-venue: "Maxwell Institute Analysis Day"
-date: 2024-03-27
+venue: "Basque Centre for Applied Mathematics - Maxwell Institute Joint Analysis Conference"
+date: 2024-10-29
 location: "Edinburgh, Scotland, UK"
 ---
