@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2025-Compressible-Analysis
 excerpt: ''
 date: 2025-04-29
-venue: ''
+venue: 'arXiv'
 paperurl: ''
 citation: 'David Bourne, Charlie Egan, Theo Lavier, Beatrice Pelloni. (2025) &quot;Semi-Discrete Optimal Transport Techniques
 for the Compressible Semi-Geostrophic Equations.&quot;'
