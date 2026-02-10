@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Théo Lavier"
 title_separator          : "-"
 name                     : &name "Théo Lavier"
-description              : &description "PhD Student in MAC-MIGS at Heriot-Watt University and University of Edinburgh"
+description              : &description "Postdoctoral Researcher at Université de Toulon"
 url                      : https://thelavier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/thelavier.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Théo Lavier"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in MAC-MIGS at Heriot-Watt University and University of Edinburgh"
-  location         : "Edinburgh, UK"
+  bio              : "Postdoctoral Researcher at Université de Toulon"
+  location         : "Toulon, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pPJ5g44AAAAJ&hl=en&citsig=AEDxBGwrVL_QuLpFURe3ttCLRIqB"

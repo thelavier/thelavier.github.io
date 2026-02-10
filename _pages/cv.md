@@ -47,5 +47,6 @@ Talks
   
 Service and Leadership
 ======
+* Organized a mini-course; 'School on Weak Optimal Transport, Wasserstein Barycenters and Applications'; [More information here](https://champion.univ-tln.fr/SWOT/SWOT.html)
 * Serving as student representative for maths PhD students at Heriot-Watt University; 2023 - 2025
 * Organized a research afternoon; 'Intersections in Optimisation and Fluid Mechanics'; [More information here](https://www.mac-migs.ac.uk/events/optimisation-and-fluids/)

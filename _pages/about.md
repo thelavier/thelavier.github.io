@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Théo Lavier and I am a PhD student at Heriot-Watt University and Edinburgh University. In this website you will find my publications, talks, CV, and teaching.
+My name is Théo Lavier and I am a postdoctoral researcher at Université de Toulon. In this website you will find my publications, talks, CV, and teaching.
 
 Research Interests
 ======
@@ -34,7 +34,7 @@ Here are two simulations showcasing an incompressible isolated semi-geostrophic 
 Personal Interests
 ======
 1. Hiking
-1. Football (Allez les bleus!)
-1. Fantasy Novels
+1. Rugby 
+1. Reading
 1. Board Games
 1. Trivia
